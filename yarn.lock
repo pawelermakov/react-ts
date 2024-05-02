@@ -9682,7 +9682,7 @@
   "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
   "version" "4.17.21"
 
-"loki@^0.31.0":
+"loki@^0.31.1":
   "integrity" "sha512-91//4m5Aulb6bWi7ywITt3feXXBIP/ErJmXf4xU8jsF549BjdgBmdeBS6LSzPlQT5xFcfQcSgW+wk1a26U4lsg=="
   "resolved" "https://registry.npmjs.org/loki/-/loki-0.31.2.tgz"
   "version" "0.31.2"
